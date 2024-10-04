@@ -23,3 +23,7 @@ A header is a larger bit of text at the beginning of a section. There are six si
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
