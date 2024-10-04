@@ -17,3 +17,5 @@ A header is a larger bit of text at the beginning of a section. There are six si
 - `####` Heading 4
 - `#####` Heading 5
 - `######` Heading 6
+
+![Image of Yaktocat]![Alt-text](URL-de-la-imagen)
