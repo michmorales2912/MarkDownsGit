@@ -1,6 +1,19 @@
-# MarkDownsGit
-Organize ideas and collaborate using Markdown, a lightweight language for text formmating.
+# Welcome to "Communicate using Markdown"! 👋
 
-# This is an `<h1>` header, which is the largest
-## This is an `<h2>` header
-###### This is an `<h6>` header, which is the smallest
+## What is Markdown?
+Markdown is a lightweight syntax for communicating on GitHub. You can format text to add heading, lists, bold, italics, tables, and many other stylings.
+
+## Where can you use Markdown?
+You can use Markdown in most places around GitHub:
+- Comments in issues, pull requests, and discussions
+- Files with the .md or .markdown extension
+- Sharing snippets of text in Gists
+
+## What is a header?
+A header is a larger bit of text at the beginning of a section. There are six sizes:
+- `#` Heading 1
+- `##` Heading 2
+- `###` Heading 3
+- `####` Heading 4
+- `#####` Heading 5
+- `######` Heading 6
