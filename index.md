@@ -19,3 +19,7 @@ A header is a larger bit of text at the beginning of a section. There are six si
 - `######` Heading 6
 
 ![Image of Yaktocat]![Alt-text](URL-de-la-imagen)
+
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
